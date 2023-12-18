@@ -1,4 +1,6 @@
+astar==0.99
 Dijkstar==2.6.0
 drawsvg==2.3.0
 numpy==1.26.2
 six==1.16.0
+sortedcontainers==2.4.0
